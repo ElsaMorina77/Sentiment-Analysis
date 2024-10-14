@@ -1,0 +1,104 @@
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 305
+Positive Tweets: 73 (23.934426229508198%)
+Negative Tweets: 40 (13.114754098360656%)
+Neutral Tweets: 192 (62.95081967213115%)
+Total Reviews: 305
+Positive Reviews: 73 (23.934426229508198%)
+Negative Reviews: 40 (13.114754098360656%)
+Neutral Reviews: 192 (62.95081967213115%)
+Time taken: 29701 milliseconds
+Total Reviews: 9
+Positive Reviews: 3 (33.33333333333333%)
+Negative Reviews: 0 (0.0%)
+Neutral Reviews: 6 (66.66666666666666%)
+Time taken: 2267 milliseconds
+Total Reviews: 5
+Positive Reviews: 3 (60.0%)
+Negative Reviews: 0 (0.0%)
+Neutral Reviews: 2 (40.0%)
+Time taken: 2231 milliseconds
+Total Reviews: 199
+Positive Reviews: 50 (25.125628140703515%)
+Negative Reviews: 20 (10.050251256281408%)
+Neutral Reviews: 129 (64.82412060301507%)
+Time taken: 16399 milliseconds
+Total Reviews: 1996
+Positive Reviews: 500 (25.0501002004008%)
+Negative Reviews: 200 (10.02004008016032%)
+Neutral Reviews: 1296 (64.92985971943888%)
+Time taken: 119280 milliseconds
+Total Reviews: 19
+Positive Reviews: 5 (26.31578947368421%)
+Negative Reviews: 2 (10.526315789473683%)
+Neutral Reviews: 12 (63.1578947368421%)
+Time taken: 3502 milliseconds
+Total Reviews: 99
+Positive Reviews: 25 (25.252525252525253%)
+Negative Reviews: 10 (10.1010101010101%)
+Neutral Reviews: 64 (64.64646464646465%)
+Time taken: 8853 milliseconds
+Total Reviews: 399
+Positive Reviews: 100 (25.062656641604008%)
+Negative Reviews: 40 (10.025062656641603%)
+Neutral Reviews: 259 (64.91228070175438%)
+Time taken: 27598 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Time taken: 58113 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Time taken: 63653 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Time taken: 60592 milliseconds
+Total Reviews: 50004
+Positive Reviews: 12530 (25.057995360371173%)
+Negative Reviews: 5010 (10.019198464122871%)
+Neutral Reviews: 32464 (64.92280617550597%)
+Time taken: 2914404 milliseconds
+Total Reviews: 5001
+Positive Reviews: 1250 (24.99500099980004%)
+Negative Reviews: 500 (9.998000399920016%)
+Neutral Reviews: 3251 (65.00699860027994%)
+Time taken: 289798 milliseconds
+Total Reviews: 10000
+Positive Reviews: 2506 (25.06%)
+Negative Reviews: 1002 (10.02%)
+Neutral Reviews: 6492 (64.92%)
+Time taken: 558381 milliseconds
+Total Reviews: 15002
+Positive Reviews: 3756 (25.036661778429544%)
+Negative Reviews: 1502 (10.011998400213304%)
+Neutral Reviews: 9744 (64.95133982135715%)
+Time taken: 825897 milliseconds
+Total Reviews: 20001
+Positive Reviews: 5012 (25.05874706264687%)
+Negative Reviews: 2004 (10.019499025048747%)
+Neutral Reviews: 12985 (64.92175391230438%)
+Time taken: 1189652 milliseconds

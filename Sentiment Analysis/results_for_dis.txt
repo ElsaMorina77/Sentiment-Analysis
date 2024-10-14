@@ -1,0 +1,178 @@
+Processor 2: Total Tweets: 270, Tweets per Second: 13.331358317286329, Average Time per Tweet: 0.07501111111111111s
+Processor 1: Total Tweets: 270, Tweets per Second: 13.10488763772266, Average Time per Tweet: 0.07630740740740741s
+Processor 0: Total Tweets: 270, Tweets per Second: 13.066202090592334, Average Time per Tweet: 0.07653333333333334s
+Processor 0: Total Tweets: 270, Tweets per Second: 13.512837195335567, Average Time per Tweet: 0.07400370370370371s
+Processor 1: Total Tweets: 270, Tweets per Second: 12.816861293078896, Average Time per Tweet: 0.07802222222222222s
+Processor 2: Total Tweets: 270, Tweets per Second: 12.502315243563622, Average Time per Tweet: 0.07998518518518519s
+Processor 5: Total Tweets: 270, Tweets per Second: 24.383635871037658, Average Time per Tweet: 0.04101111111111111s
+Processor 3: Total Tweets: 270, Tweets per Second: 21.997718755092066, Average Time per Tweet: 0.045459259259259255s
+Processor 1: Total Tweets: 270, Tweets per Second: 21.46946564885496, Average Time per Tweet: 0.04657777777777778s
+Processor 0: Total Tweets: 270, Tweets per Second: 10.478112387457312, Average Time per Tweet: 0.09543703703703704s
+Processor 4: Total Tweets: 270, Tweets per Second: 10.325837540156035, Average Time per Tweet: 0.09684444444444444s
+Processor 2: Total Tweets: 270, Tweets per Second: 10.064862446879893, Average Time per Tweet: 0.09935555555555556s
+Processor 5: Total Tweets: 270, Tweets per Second: 23.963788053607882, Average Time per Tweet: 0.04172962962962963s
+Processor 3: Total Tweets: 270, Tweets per Second: 22.410358565737052, Average Time per Tweet: 0.04462222222222222s
+Processor 1: Total Tweets: 270, Tweets per Second: 20.922123208058892, Average Time per Tweet: 0.047796296296296295s
+Processor 4: Total Tweets: 270, Tweets per Second: 10.313216195569137, Average Time per Tweet: 0.09696296296296296s
+Processor 0: Total Tweets: 270, Tweets per Second: 10.035309422040513, Average Time per Tweet: 0.09964814814814815s
+Processor 2: Total Tweets: 270, Tweets per Second: 9.789702683103698, Average Time per Tweet: 0.10214814814814814s
+Processor 5: Total Tweets: 270, Tweets per Second: 19.154370034052214, Average Time per Tweet: 0.05220740740740741s
+Processor 3: Total Tweets: 270, Tweets per Second: 18.083182640144667, Average Time per Tweet: 0.055299999999999995s
+Processor 1: Total Tweets: 270, Tweets per Second: 16.18510969907685, Average Time per Tweet: 0.06178518518518518s
+Processor 0: Total Tweets: 270, Tweets per Second: 6.567106095247361, Average Time per Tweet: 0.15227407407407406s
+Processor 4: Total Tweets: 270, Tweets per Second: 6.504456757407854, Average Time per Tweet: 0.15374074074074073s
+Processor 2: Total Tweets: 270, Tweets per Second: 6.356979728297977, Average Time per Tweet: 0.1573074074074074s
+Processor 5: Total Tweets: 270, Tweets per Second: 24.03204272363151, Average Time per Tweet: 0.041611111111111106s
+Processor 3: Total Tweets: 270, Tweets per Second: 22.84457229884085, Average Time per Tweet: 0.043774074074074076s
+Processor 1: Total Tweets: 270, Tweets per Second: 21.733880705143687, Average Time per Tweet: 0.046011111111111114s
+Processor 0: Total Tweets: 270, Tweets per Second: 10.954680082768695, Average Time per Tweet: 0.09128518518518518s
+Processor 4: Total Tweets: 270, Tweets per Second: 10.615711252653927, Average Time per Tweet: 0.0942s
+Processor 2: Total Tweets: 270, Tweets per Second: 10.2455128448374, Average Time per Tweet: 0.0976037037037037s
+Processor 3: Total Tweets: 270, Tweets per Second: 19.69940172187363, Average Time per Tweet: 0.05076296296296296s
+Processor 5: Total Tweets: 270, Tweets per Second: 15.566445661573942, Average Time per Tweet: 0.06424074074074074s
+Processor 1: Total Tweets: 270, Tweets per Second: 12.726244343891402, Average Time per Tweet: 0.07857777777777779s
+Processor 0: Total Tweets: 270, Tweets per Second: 8.70686875201548, Average Time per Tweet: 0.11485185185185186s
+Processor 2: Total Tweets: 270, Tweets per Second: 8.215426745778183, Average Time per Tweet: 0.12172222222222223s
+Processor 4: Total Tweets: 270, Tweets per Second: 7.703500813147308, Average Time per Tweet: 0.1298111111111111s
+Processor 5: Total Tweets: 270, Tweets per Second: 23.75296912114014, Average Time per Tweet: 0.042100000000000005s
+Processor 3: Total Tweets: 270, Tweets per Second: 23.521212649185472, Average Time per Tweet: 0.04251481481481481s
+Processor 1: Total Tweets: 270, Tweets per Second: 22.209426667763427, Average Time per Tweet: 0.04502592592592593s
+Processor 4: Total Tweets: 270, Tweets per Second: 10.284538909838876, Average Time per Tweet: 0.09723333333333334s
+Processor 0: Total Tweets: 270, Tweets per Second: 10.07838745800672, Average Time per Tweet: 0.09922222222222223s
+Processor 2: Total Tweets: 270, Tweets per Second: 9.750812567713975, Average Time per Tweet: 0.10255555555555557s
+Processor 0: Total Tweets: 8912, Tweets per Second: 31.071968983815523, Average Time per Tweet: 0.03218334829443447s
+Processor 2: Total Tweets: 8912, Tweets per Second: 24.06326868399949, Average Time per Tweet: 0.04155711400359067s
+Processor 2: Total Tweets: 0, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Processor 3: Total Tweets: 0, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Processor 1: Total Tweets: 0, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Processor 0: Total Tweets: 0, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Processor 0: Total Tweets: 22, Tweets per Second: 0.5962705984388551, Average Time per Tweet: 1.6770909090909092s
+Processor 2: Total Tweets: 22, Tweets per Second: 0.4387364390555201, Average Time per Tweet: 2.279272727272727s
+Processor 1: Total Tweets: 22, Tweets per Second: 0.41502386387217266, Average Time per Tweet: 2.4095s
+Processor 3: Total Tweets: 22, Tweets per Second: 0.26626968277598245, Average Time per Tweet: 3.7555909090909094s
+Processor 1: Total Tweets: 4870, Tweets per Second: 1.2199386573760949, Average Time per Tweet: 0.8197133470225872s
+Processor 2: Total Tweets: 4870, Tweets per Second: 1.3341617738269786, Average Time per Tweet: 0.7495342915811088s
+Processor 2: Total Tweets: 4870, Tweets per Second: 1.149718354415438, Average Time per Tweet: 0.8697782340862422s
+Processor 2: Total Tweets: 22, Tweets per Second: 1.675296984465428, Average Time per Tweet: 0.596909090909091s
+Processor 0: Total Tweets: 22, Tweets per Second: 1.658249792718776, Average Time per Tweet: 0.6030454545454546s
+Processor 1: Total Tweets: 22, Tweets per Second: 1.2002837034208085, Average Time per Tweet: 0.8331363636363637s
+Processor 3: Total Tweets: 22, Tweets per Second: 1.1507479861910244, Average Time per Tweet: 0.8689999999999999s
+Processor 0: Total Tweets: 22, Tweets per Second: 1.7761989342806395, Average Time per Tweet: 0.563s
+Processor 2: Total Tweets: 22, Tweets per Second: 1.7410572966128524, Average Time per Tweet: 0.5743636363636363s
+Processor 1: Total Tweets: 22, Tweets per Second: 1.2426570266606416, Average Time per Tweet: 0.8047272727272727s
+Processor 3: Total Tweets: 22, Tweets per Second: 1.2039621299184589, Average Time per Tweet: 0.830590909090909s
+Master Process: Total Tweets: 32, Tweets per Second: 1.882369987320039E-8, Average Time per Tweet: 5.312451891690625E7s
+Master Process: Total Tweets: 31, Tweets per Second: 1.823545580784025E-8, Average Time per Tweet: 5.483822343338709E7s
+Master Process: Total Tweets: 32, Tweets per Second: 1.88236903529442E-8, Average Time per Tweet: 5.3124545785125E7s
+Master Process: Total Tweets: 28, Tweets per Second: 1.6470727365572483E-8, Average Time per Tweet: 6.071377285317857E7s
+Master Process: Total Tweets: 32, Tweets per Second: 1.882368086630372E-8, Average Time per Tweet: 5.31245725585E7s
+Master Process: Total Tweets: 3, Tweets per Second: 1.7647199101083924E-9, Average Time per Tweet: 5.666621622343334E8s
+Master Process: Total Tweets: 3, Tweets per Second: 1.7647198335936845E-9, Average Time per Tweet: 5.666621868036667E8s
+Master Process: Total Tweets: 3, Tweets per Second: 1.7647197547619917E-9, Average Time per Tweet: 5.66662212117E8s
+Master Process: Total Tweets: 20, Tweets per Second: 1.1764793705229984E-8, Average Time per Tweet: 8.499936548445E7s
+Master Process: Total Tweets: 20, Tweets per Second: 1.176479329635192E-8, Average Time per Tweet: 8.499936843855E7s
+Master Process: Total Tweets: 20, Tweets per Second: 1.1764791941895961E-8, Average Time per Tweet: 8.499937822435E7s
+Master Process: Total Tweets: 31, Tweets per Second: 1.8235426821160178E-8, Average Time per Tweet: 5.483831060316129E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.529430100927074E-8, Average Time per Tweet: 3.95345971265814E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.529429589036746E-8, Average Time per Tweet: 3.953460512734884E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.5294287345896982E-8, Average Time per Tweet: 3.953461848223256E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.5294284101035174E-8, Average Time per Tweet: 3.953462355390698E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.529427964308248E-8, Average Time per Tweet: 3.953463052162791E7s
+Master Process: Total Tweets: 43, Tweets per Second: 2.5294277045417983E-8, Average Time per Tweet: 3.953463458174419E7s
+Processor 1: Total Tweets: 299, Tweets per Second: 24.083769633507856, Average Time per Tweet: 0.04152173913043478s
+Processor 3: Total Tweets: 299, Tweets per Second: 23.81331634278433, Average Time per Tweet: 0.04199331103678929s
+Processor 0: Total Tweets: 299, Tweets per Second: 10.050082350173103, Average Time per Tweet: 0.09950167224080268s
+Processor 2: Total Tweets: 299, Tweets per Second: 9.479424259717202, Average Time per Tweet: 0.10549163879598662s
+Master Process: Total Tweets: 139, Tweets per Second: 8.145407241216339E-8, Average Time per Tweet: 1.2276857011395684E7s
+Processor 2: Total Tweets: 5, Tweets per Second: 0.6298815822625347, Average Time per Tweet: 1.5876s
+Processor 1: Total Tweets: 5, Tweets per Second: 0.6028454304316373, Average Time per Tweet: 1.6588s
+Processor 3: Total Tweets: 5, Tweets per Second: 0.595876534382076, Average Time per Tweet: 1.6782s
+Processor 0: Total Tweets: 5, Tweets per Second: 0.572475383558507, Average Time per Tweet: 1.7468s
+Processor 2: Total Tweets: 5, Total Time: 10.188s, Tweets per Second: 0.4907734589713388, Average Time per Tweet: 2.0376000000000003s
+Processor 1: Total Tweets: 5, Total Time: 10.49s, Tweets per Second: 0.47664442326024786, Average Time per Tweet: 2.098s
+Processor 3: Total Tweets: 5, Total Time: 10.525s, Tweets per Second: 0.4750593824228028, Average Time per Tweet: 2.105s
+Processor 0: Total Tweets: 5, Total Time: 11.08s, Tweets per Second: 0.45126353790613716, Average Time per Tweet: 2.216s
+Processor 3: Total Tweets: 5, Total Time: 7.623s, Tweets per Second: 0.6559097468188377, Average Time per Tweet: 1.5246s
+Processor 2: Total Tweets: 5, Total Time: 7.709s, Tweets per Second: 0.6485925541574783, Average Time per Tweet: 1.5417999999999998s
+Processor 1: Total Tweets: 5, Total Time: 8.127s, Tweets per Second: 0.6152331733727082, Average Time per Tweet: 1.6254000000000002s
+Processor 0: Total Tweets: 5, Total Time: 8.499s, Tweets per Second: 0.5883045064125191, Average Time per Tweet: 1.6998000000000002s
+Total Tweets: 5, Total Time: 8.128s, Tweets per Second: 0.6151574803149606, Average Time per Tweet: 1.6256s
+Total Tweets: 5, Total Time: 8.086s, Tweets per Second: 0.6183527083848627, Average Time per Tweet: 1.6172s
+Total Tweets: 5, Total Time: 8.146s, Tweets per Second: 0.6137981831573778, Average Time per Tweet: 1.6292000000000002s
+Total Tweets: 5, Total Time: 8.12s, Tweets per Second: 0.6157635467980296, Average Time per Tweet: 1.6239999999999999s
+Total Tweets: 10, Total Time: 9.51s, Tweets per Second: 1.0515247108307046, Average Time per Tweet: 0.951s
+Total Tweets: 10, Total Time: 9.534s, Tweets per Second: 1.0488777008600796, Average Time per Tweet: 0.9534s
+Total Tweets: 10, Total Time: 9.478s, Tweets per Second: 1.0550749103186325, Average Time per Tweet: 0.9478s
+Total Tweets: 10, Total Time: 9.555s, Tweets per Second: 1.0465724751439038, Average Time per Tweet: 0.9555s
+Total Tweets: 19, Total Time: 8.433s, Tweets per Second: 2.253053480374718, Average Time per Tweet: 0.44384210526315787s
+Total Tweets: 19, Total Time: 8.424s, Tweets per Second: 2.2554605887939223, Average Time per Tweet: 0.4433684210526316s
+Total Tweets: 19, Total Time: 8.451s, Tweets per Second: 2.2482546444207783, Average Time per Tweet: 0.44478947368421057s
+Total Tweets: 19, Total Time: 8.402s, Tweets per Second: 2.2613663413472986, Average Time per Tweet: 0.44221052631578944s
+Total Tweets: 0, Total Time: 5.518s, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Total Tweets: 0, Total Time: 5.499s, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Total Tweets: 0, Total Time: 5.541s, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Total Tweets: 0, Total Time: 5.487s, Tweets per Second: 0.0, Average Time per Tweet: Infinitys
+Total Tweets: 39, Total Time: 9.616s, Tweets per Second: 4.055740432612313, Average Time per Tweet: 0.24656410256410255s
+Total Tweets: 39, Total Time: 9.661s, Tweets per Second: 4.036849187454715, Average Time per Tweet: 0.2477179487179487s
+Total Tweets: 39, Total Time: 9.682s, Tweets per Second: 4.028093369138608, Average Time per Tweet: 0.24825641025641026s
+Total Tweets: 39, Total Time: 9.653s, Tweets per Second: 4.040194758106288, Average Time per Tweet: 0.24751282051282053s
+Total Tweets: 99, Total Time: 12.448s, Tweets per Second: 7.953084832904884, Average Time per Tweet: 0.12573737373737373s
+Total Tweets: 99, Total Time: 12.411s, Tweets per Second: 7.976794778825236, Average Time per Tweet: 0.12536363636363637s
+Total Tweets: 99, Total Time: 12.434s, Tweets per Second: 7.9620395689239185, Average Time per Tweet: 0.1255959595959596s
+Total Tweets: 99, Total Time: 12.469s, Tweets per Second: 7.939690432272035, Average Time per Tweet: 0.12594949494949495s
+Total Tweets: 199, Total Time: 16.673s, Tweets per Second: 11.935464523481079, Average Time per Tweet: 0.08378391959798995s
+Total Tweets: 199, Total Time: 16.646s, Tweets per Second: 11.954823981737354, Average Time per Tweet: 0.08364824120603015s
+Total Tweets: 199, Total Time: 16.653s, Tweets per Second: 11.949798835044737, Average Time per Tweet: 0.08368341708542713s
+Total Tweets: 199, Total Time: 16.614s, Tweets per Second: 11.97785000601902, Average Time per Tweet: 0.08348743718592966s
+Total Tweets: 399, Total Time: 22.929s, Tweets per Second: 17.40154389637577, Average Time per Tweet: 0.05746616541353383s
+Total Tweets: 399, Total Time: 22.977s, Tweets per Second: 17.365191278234757, Average Time per Tweet: 0.05758646616541353s
+Total Tweets: 399, Total Time: 23.019s, Tweets per Second: 17.3335071028281, Average Time per Tweet: 0.057691729323308266s
+Total Tweets: 399, Total Time: 22.997s, Tweets per Second: 17.350089142062007, Average Time per Tweet: 0.05763659147869674s
+Total Tweets: 999, Total Time: 42.495s, Tweets per Second: 23.508648076244267, Average Time per Tweet: 0.042537537537537536s
+Total Tweets: 999, Total Time: 42.441s, Tweets per Second: 23.538559411889445, Average Time per Tweet: 0.042483483483483485s
+Total Tweets: 999, Total Time: 42.467s, Tweets per Second: 23.52414816210234, Average Time per Tweet: 0.042509509509509505s
+Total Tweets: 999, Total Time: 42.473s, Tweets per Second: 23.52082499470252, Average Time per Tweet: 0.042515515515515516s
+Total Tweets: 2000, Total Time: 56.836s, Tweets per Second: 35.18896474065733, Average Time per Tweet: 0.028418s
+Total Tweets: 2000, Total Time: 56.85s, Tweets per Second: 35.180299032541775, Average Time per Tweet: 0.028425000000000002s
+Total Tweets: 2000, Total Time: 56.809s, Tweets per Second: 35.20568923938109, Average Time per Tweet: 0.0284045s
+Total Tweets: 2000, Total Time: 56.87s, Tweets per Second: 35.16792685071215, Average Time per Tweet: 0.028435s
+Total Tweets: 5001, Total Time: 127.651s, Tweets per Second: 39.177131397325525, Average Time per Tweet: 0.025525094981003797s
+Total Tweets: 5001, Total Time: 127.721s, Tweets per Second: 39.15565960178827, Average Time per Tweet: 0.025539092181563687s
+Total Tweets: 5001, Total Time: 127.679s, Tweets per Second: 39.16853985385224, Average Time per Tweet: 0.025530693861227756s
+Total Tweets: 5001, Total Time: 127.7s, Tweets per Second: 39.16209866875489, Average Time per Tweet: 0.02553489302139572s
+Total Tweets: 10000, Total Time: 221.555s, Tweets per Second: 45.13551939698946, Average Time per Tweet: 0.0221555s
+Total Tweets: 10000, Total Time: 221.544s, Tweets per Second: 45.13776044487776, Average Time per Tweet: 0.0221544s
+Total Tweets: 10000, Total Time: 221.599s, Tweets per Second: 45.12655743031332, Average Time per Tweet: 0.0221599s
+Total Tweets: 10000, Total Time: 221.577s, Tweets per Second: 45.13103796874224, Average Time per Tweet: 0.0221577s
+Total Tweets: 15002, Total Time: 365.716s, Tweets per Second: 41.020901464524385, Average Time per Tweet: 0.02437781629116118s
+Total Tweets: 15002, Total Time: 365.688s, Tweets per Second: 41.02404235304412, Average Time per Tweet: 0.02437594987335022s
+Total Tweets: 15002, Total Time: 365.657s, Tweets per Second: 41.027520326426135, Average Time per Tweet: 0.02437388348220237s
+Total Tweets: 15002, Total Time: 365.693s, Tweets per Second: 41.02348144481847, Average Time per Tweet: 0.024376283162245032s
+Total Tweets: 20001, Total Time: 465.191s, Tweets per Second: 42.99524281424189, Average Time per Tweet: 0.023258387080645967s
+Total Tweets: 20001, Total Time: 465.097s, Tweets per Second: 43.00393251300267, Average Time per Tweet: 0.02325368731563422s
+Total Tweets: 20001, Total Time: 465.121s, Tweets per Second: 43.001713532607646, Average Time per Tweet: 0.023254887255637218s
+Total Tweets: 20001, Total Time: 465.149s, Tweets per Second: 42.999125011555435, Average Time per Tweet: 0.02325628718564072s
+Total Tweets: 50004, Total Time: 1112.998s, Tweets per Second: 44.927304451580326, Average Time per Tweet: 0.02225817934565235s
+Total Tweets: 50004, Total Time: 1113.072s, Tweets per Second: 44.92431756436242, Average Time per Tweet: 0.022259659227261818s
+Total Tweets: 50004, Total Time: 1113.023s, Tweets per Second: 44.92629532363662, Average Time per Tweet: 0.022258679305655546s
+Total Tweets: 50004, Total Time: 1113.047s, Tweets per Second: 44.92532660345879, Average Time per Tweet: 0.02225915926725862s
+Total Reviews: 999, Total Time: 51.535s, Reviews per Second: 19.384884059377125, Average Time per Reviews: 0.05158658658658658s
+Total Reviews: 999, Total Time: 51.561s, Reviews per Second: 19.375109094082738, Average Time per Reviews: 0.051612612612612616s
+Total Reviews: 999, Total Time: 51.592s, Reviews per Second: 19.36346720421771, Average Time per Reviews: 0.05164364364364364s
+Total Reviews: 999, Total Time: 51.615s, Reviews per Second: 19.35483870967742, Average Time per Reviews: 0.051666666666666666s
+Total Reviews: 999, Total Time: 51.381s, Reviews per Second: 19.442984760903837, Average Time per Reviews: 0.05143243243243243s
+Total Reviews: 999, Total Time: 51.397s, Reviews per Second: 19.436932116660508, Average Time per Reviews: 0.051448448448448446s
+Total Reviews: 999, Total Time: 51.419s, Reviews per Second: 19.42861588128902, Average Time per Reviews: 0.051470470470470465s
+Total Reviews: 999, Total Time: 51.368s, Reviews per Second: 19.447905310699266, Average Time per Reviews: 0.051419419419419424s
+Total Reviews: 999, Total Time: 48.88s, Reviews per Second: 20.437806873977085, Average Time per Reviews: 0.04892892892892893s
+Total Reviews: 999, Total Time: 48.819s, Reviews per Second: 20.463344189762182, Average Time per Reviews: 0.04886786786786787s
+Total Reviews: 999, Total Time: 48.859s, Reviews per Second: 20.446591211445178, Average Time per Reviews: 0.04890790790790791s
+Total Reviews: 999, Total Time: 48.804s, Reviews per Second: 20.469633636587165, Average Time per Reviews: 0.04885285285285285s
+Total Reviews: 50004, Total Time: 7544.394s, Reviews per Second: 6.627967733392503, Average Time per Reviews: 0.1508758099352052s
+Total Reviews: 50004, Total Time: 7544.454s, Reviews per Second: 6.627915022081121, Average Time per Reviews: 0.15087700983921284s
+Total Reviews: 50004, Total Time: 7544.436s, Reviews per Second: 6.627930835386502, Average Time per Reviews: 0.15087664986801055s
+Total Reviews: 50004, Total Time: 7544.414s, Reviews per Second: 6.627950162862218, Average Time per Reviews: 0.15087620990320774s
+Total Reviews: 50004, Total Time: 7515.734s, Reviews per Second: 6.653242384576144, Average Time per Reviews: 0.15030265578753702s
+Total Reviews: 50004, Total Time: 7515.682s, Reviews per Second: 6.653288417471628, Average Time per Reviews: 0.15030161587073035s
+Total Reviews: 50004, Total Time: 7515.757s, Reviews per Second: 6.653222024075553, Average Time per Reviews: 0.15030311575073993s
+Total Reviews: 50004, Total Time: 7515.712s, Reviews per Second: 6.653261859954187, Average Time per Reviews: 0.1503022158227342s

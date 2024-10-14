@@ -1,0 +1,127 @@
+
+Total Tweets: 270
+Positive Tweets: 65 (24.074074074074073%)
+Negative Tweets: 37 (13.703703703703704%)
+Neutral Tweets: 168 (62.22222222222222%)
+Total Tweets: 3
+Positive Tweets: 0 (0.0%)
+Negative Tweets: 2 (66.66666666666666%)
+Neutral Tweets: 1 (33.33333333333333%)
+Total Tweets: 1
+Positive Tweets: 0 (0.0%)
+Negative Tweets: 1 (100.0%)
+Neutral Tweets: 0 (0.0%)
+Total Tweets: 824
+Positive Tweets: 624 (75.72815533980582%)
+Negative Tweets: 136 (16.50485436893204%)
+Neutral Tweets: 64 (7.766990291262135%)
+Total Tweets: 1648
+Positive Tweets: 1248 (75.72815533980582%)
+Negative Tweets: 272 (16.50485436893204%)
+Neutral Tweets: 128 (7.766990291262135%)
+Total Tweets: 1705
+Positive Tweets: 1275 (74.7800586510264%)
+Negative Tweets: 290 (17.008797653958943%)
+Neutral Tweets: 140 (8.211143695014663%)
+Total Tweets: 4870
+Positive Tweets: 1710 (35.1129363449692%)
+Negative Tweets: 703 (14.435318275154005%)
+Neutral Tweets: 2457 (50.4517453798768%)
+Total Tweets: 299
+Positive Tweets: 72 (24.08026755852843%)
+Negative Tweets: 39 (13.043478260869565%)
+Neutral Tweets: 188 (62.87625418060201%)
+Total Tweets: 305
+Positive Tweets: 73 (23.934426229508198%)
+Negative Tweets: 40 (13.114754098360656%)
+Neutral Tweets: 192 (62.95081967213115%)
+Total Tweets: 305
+Positive Tweets: 73 (23.934426229508198%)
+Negative Tweets: 40 (13.114754098360656%)
+Neutral Tweets: 192 (62.95081967213115%)
+Total Time: 14817 milliseconds
+Total Tweets: 5
+Positive Tweets: 3 (60.0%)
+Negative Tweets: 0 (0.0%)
+Neutral Tweets: 2 (40.0%)
+Total Time: 2303 milliseconds
+Total Tweets: 19
+Positive Tweets: 5 (26.31578947368421%)
+Negative Tweets: 2 (10.526315789473683%)
+Neutral Tweets: 12 (63.1578947368421%)
+Total Time: 2479 milliseconds
+Total Tweets: 19
+Positive Tweets: 5 (26.31578947368421%)
+Negative Tweets: 2 (10.526315789473683%)
+Neutral Tweets: 12 (63.1578947368421%)
+Total Time: 2707 milliseconds
+Total Tweets: 10
+Positive Tweets: 5 (50.0%)
+Negative Tweets: 2 (20.0%)
+Neutral Tweets: 3 (30.0%)
+Total Time: 2921 milliseconds
+Total Tweets: 99
+Positive Tweets: 25 (25.252525252525253%)
+Negative Tweets: 10 (10.1010101010101%)
+Neutral Tweets: 64 (64.64646464646465%)
+Total Time: 5908 milliseconds
+Total Tweets: 199
+Positive Tweets: 50 (25.125628140703515%)
+Negative Tweets: 20 (10.050251256281408%)
+Neutral Tweets: 129 (64.82412060301507%)
+Total Time: 7283 milliseconds
+Total Tweets: 399
+Positive Tweets: 100 (25.062656641604008%)
+Negative Tweets: 40 (10.025062656641603%)
+Neutral Tweets: 259 (64.91228070175438%)
+Total Time: 13389 milliseconds
+Total Tweets: 999
+Positive Tweets: 250 (25.025025025025027%)
+Negative Tweets: 100 (10.01001001001001%)
+Neutral Tweets: 649 (64.96496496496496%)
+Total Time: 21744 milliseconds
+Total Tweets: 2000
+Positive Tweets: 500 (25.0%)
+Negative Tweets: 200 (10.0%)
+Neutral Tweets: 1300 (65.0%)
+Total Time: 32014 milliseconds
+Total Tweets: 5001
+Positive Tweets: 1250 (24.99500099980004%)
+Negative Tweets: 500 (9.998000399920016%)
+Neutral Tweets: 3251 (65.00699860027994%)
+Total Time: 80774 milliseconds
+Total Tweets: 10000
+Positive Tweets: 2506 (25.06%)
+Negative Tweets: 1002 (10.02%)
+Neutral Tweets: 6492 (64.92%)
+Total Time: 152942 milliseconds
+Total Tweets: 15002
+Positive Tweets: 3756 (25.036661778429544%)
+Negative Tweets: 1502 (10.011998400213304%)
+Neutral Tweets: 9744 (64.95133982135715%)
+Total Time: 210278 milliseconds
+Total Tweets: 20001
+Positive Tweets: 5012 (25.05874706264687%)
+Negative Tweets: 2004 (10.019499025048747%)
+Neutral Tweets: 12985 (64.92175391230438%)
+Total Time: 306158 milliseconds
+Total Reviews: 50004
+Positive Reviews: 12530 (25.057995360371173%)
+Negative Reviews: 5010 (10.019198464122871%)
+Neutral Reviews: 32464 (64.92280617550597%)
+Total Time: 674027 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Total Time: 36534 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Total Time: 24547 milliseconds
+Total Reviews: 999
+Positive Reviews: 250 (25.025025025025027%)
+Negative Reviews: 100 (10.01001001001001%)
+Neutral Reviews: 649 (64.96496496496496%)
+Total Time: 27673 milliseconds
